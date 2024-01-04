@@ -1,0 +1,11 @@
+D:\adu\checkupdate\checkupdate\bin\Debug\checkupdate.exe.config
+D:\adu\checkupdate\checkupdate\bin\Debug\checkupdate.exe
+D:\adu\checkupdate\checkupdate\bin\Debug\checkupdate.pdb
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.csproj.AssemblyReference.cache
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.csproj.SuggestedBindingRedirects.cache
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.csproj.CoreCompileInputs.cache
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.exe
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.pdb
+D:\adu\checkupdate\checkupdate\bin\Debug\Newtonsoft.Json.dll
+D:\adu\checkupdate\checkupdate\bin\Debug\Newtonsoft.Json.xml
+D:\adu\checkupdate\checkupdate\obj\Debug\checkupdate.csproj.CopyComplete

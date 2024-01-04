@@ -1,0 +1,5 @@
+{
+    "ScriptTitle": "使用Python的OpenCV库实现人脸识别的支持库安装程序",
+    "ScriptUser": "Mepuru 2024",
+    "DownFile": ["cv2", "time", "urllib.request", "numpy", "tkinter", "PIL"]
+}
