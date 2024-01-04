@@ -6,7 +6,7 @@
 
 # Python library automatic installer
 
-**[English](https://github.com/Mapleawaa/Python-Library-Auto-Installer-EN)|[Chinese (Simplified)](https://github.com/Mapleawaa/Python-Library-Auto- Installer)**
+**[English](README-EN.md)|[Chinese (Simplified)](README.md)**
 
 This project is prepared for developers who do not know Python at all but want to use Python to develop projects.
 
