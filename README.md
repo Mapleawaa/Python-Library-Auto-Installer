@@ -6,7 +6,7 @@
 
 # Python 库自动安装程序
 
-**[English](README-EN.MD)|[中文(简体)](README.MD)**
+**[English](README-EN.md)|[中文(简体)](README.md)**
 
 本项目为完全不懂Python但是想要使用Python开发的项目的用户的开发者准备
 
